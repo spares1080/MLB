@@ -1,5 +1,3 @@
-# streamlit_app.py
-
 import streamlit as st
 from streamlit_gsheets import GSheetsConnection
 
